@@ -1,0 +1,13 @@
+"title_pay_with_lychee" = "Pay with Lychee";
+"enter_your_onepay_code_to_pay" = "Enter your onepay code to pay";
+"error_please_enter_valid_code" = "Please enter valid code";
+"error_voucher_must_match_the_payment_amount" = "Voucher must match the payment amount";
+"error_insufficient_balance" = "Insufficient balance";
+"error_code_does_not_exits" = "Code does not exist";
+"no_voucher_get_a_code" = "No voucher? Get a code.";
+"button_pay_now" = "Pay Now";
+"secured_by" = "Secured by";
+"payment_error" = "Payment Error";
+"payment_success" = "Payment Success!";
+"your_payment_of_has_been_successfully_done" = "Your payment of %1$@ has been successfully completed.";
+"button_done" = "Done";

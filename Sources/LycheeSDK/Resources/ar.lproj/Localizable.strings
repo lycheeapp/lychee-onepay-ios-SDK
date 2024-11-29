@@ -1,0 +1,13 @@
+"title_pay_with_lychee" = "إدفع باستخدام ليتشي";
+"enter_your_onepay_code_to_pay" = "أدخل رمز onepay الخاص بك للدفع";
+"error_please_enter_valid_code" = "يرجى إدخال كود صالح";
+"error_voucher_must_match_the_payment_amount" = "يجب أن تتوافق القسيمه مع قيمة الدفع";
+"error_insufficient_balance" = "الرصيد غير كافي";
+"error_code_does_not_exits" = "الكود غير موجود";
+"no_voucher_get_a_code" = "لا يوجد قسيمة؟ احصل على كود";
+"button_pay_now" = "إدفع الآن";
+"secured_by" = "مؤمّن بواسطة";
+"payment_error" = "خطأ في الدفع";
+"payment_success" = "تم الدفع بنجاح!";
+"your_payment_of_has_been_successfully_done" = "تمت عملية الدفع الخاصة بك بمبلغ %1$@ بنجاح.";
+"button_done" = "تم";
